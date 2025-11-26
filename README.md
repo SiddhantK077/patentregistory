@@ -1,20 +1,20 @@
 # Open-Source Patent Registry
 
-## 🧠 Project Description
+## 🧠 Project Details
 The **Open-Source Patent Registry** is a decentralized blockchain-based platform for registering, verifying, and managing patents. 
 It provides transparency, immutability, and open access to innovation records, ensuring that creators receive recognition for their intellectual property without relying on centralized authorities.
 
-## 🌍 Project Vision
+## 🌍 Project future vision
 To create a transparent, trustless, and publicly verifiable system for managing intellectual property. 
 This system aims to eliminate patent fraud, encourage open innovation, and make patent records accessible to everyone worldwide.
 
-## ⚙️ Key Features
+## ⚙️ Features
 - **Patent Registration:** Inventors can register new patents on the blockchain with a title and description.
 - **Patent Verification:** Verify ownership and authenticity of a patent using the inventor’s address.
 - **Public Access:** Anyone can view registered patents with complete transparency.
 - **Immutability:** Once a patent is registered, its data is permanently stored on the blockchain.
 
-## 🚀 Future Scope
+## 🚀 upcoming Scope
 - **Patent Transfer:** Enable ownership transfer of patents between users.
 - **Patent Licensing:** Add features to license patents for commercial or research use.
 - **Integration with IP Databases:** Connect blockchain registry with global patent organizations (e.g., WIPO, USPTO).
